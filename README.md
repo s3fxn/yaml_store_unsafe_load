@@ -2,7 +2,7 @@
 
 yaml_store_unsafe_load - patch to use unsafe_load instead of safe_load in yaml/store
 
-I created this to fix my app that uses yaml/store, which was broken in ruby 3.4.  It replaces a safe method with an unsafe method, so you need to fully understand what you are doing before using it.
+I created this to fix my app that uses yaml/store, which was broken in ruby 3.4.  It replaces a safe method with an unsafe one, so you need to fully understand what you are doing before using it.
 
 ## Installation
 
