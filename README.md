@@ -1,4 +1,4 @@
-# YamlStoreUnsafeLoad
+# yaml_store_unsafe_load
 
 yaml_store_unsafe_load - patch to use unsafe_load instead of safe_load in yaml/store
 
