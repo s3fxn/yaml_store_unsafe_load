@@ -39,3 +39,7 @@ end
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/s3fxn/yaml_store_unsafe_load.
 
+## License
+
+The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+

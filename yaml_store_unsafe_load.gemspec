@@ -10,6 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "yaml_store_unsafe_load - patch to use unsafe_load instead of safe_load in yaml/store"
   spec.homepage = "https://github.com/s3fxn/yaml_store_unsafe_load"
+  spec.license = "MIT"
   spec.required_ruby_version = ">= 3.3.0"
 
   spec.metadata["allowed_push_host"] = "https://rubygems.org"
